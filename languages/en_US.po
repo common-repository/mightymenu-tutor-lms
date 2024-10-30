@@ -1,0 +1,322 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2022-08-08 11:27+0600\n"
+"PO-Revision-Date: 2022-08-08 11:27+0600\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.1.1\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: esc_html_e;__\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: assets\n"
+
+#: inc/magic-menu-customize.php:14
+msgid "MightyMenu Tutor LMS"
+msgstr ""
+
+#: inc/magic-menu-customize.php:15
+msgid "Dashboard like Menu Modifications can be done here"
+msgstr ""
+
+#: inc/magic-menu-customize.php:21
+msgid "General Color"
+msgstr ""
+
+#: inc/magic-menu-customize.php:29
+msgid "Layout"
+msgstr ""
+
+#: inc/magic-menu-customize.php:37
+msgid "Student Info"
+msgstr ""
+
+#: inc/magic-menu-customize.php:46
+msgid "Resume Course"
+msgstr ""
+
+#: inc/magic-menu-customize.php:54
+msgid "Menu Items"
+msgstr ""
+
+#: inc/magic-menu-customize.php:63
+msgid "Instructor Info"
+msgstr ""
+
+#: inc/magic-menu-customize.php:71 view/appbar.view.php:442
+msgid "Enrolled Courses"
+msgstr ""
+
+#: inc/magic-menu-customize.php:81
+msgid "Footer"
+msgstr ""
+
+#: inc/magic-menu-customize.php:101
+msgid "Sidebar Layout"
+msgstr ""
+
+#: inc/magic-menu-customize.php:104
+msgid "Fullscreen"
+msgstr ""
+
+#: inc/magic-menu-customize.php:105
+msgid "Sidebar Left"
+msgstr ""
+
+#: inc/magic-menu-customize.php:106
+msgid "Sidebar Right"
+msgstr ""
+
+#: inc/magic-menu-customize.php:107
+msgid "Sidebar Top"
+msgstr ""
+
+#: inc/magic-menu-customize.php:108
+msgid "Sidebar Bottom"
+msgstr ""
+
+#: inc/magic-menu-customize.php:125
+msgid "Float Button Position"
+msgstr ""
+
+#: inc/magic-menu-customize.php:128
+msgid "Left"
+msgstr ""
+
+#: inc/magic-menu-customize.php:129
+msgid "Right"
+msgstr ""
+
+#: inc/magic-menu-customize.php:150 inc/magic-menu-customize.php:414
+msgid "Menu Item Background Color"
+msgstr ""
+
+#: inc/magic-menu-customize.php:168 inc/magic-menu-customize.php:432
+msgid "Menu Item Color"
+msgstr ""
+
+#: inc/magic-menu-customize.php:186 inc/magic-menu-customize.php:450
+msgid "Menu Icon Color"
+msgstr ""
+
+#: inc/magic-menu-customize.php:206
+msgid "Sidebar Text Color"
+msgstr ""
+
+#: inc/magic-menu-customize.php:223
+msgid "Sidebar Background Color"
+msgstr ""
+
+#: inc/magic-menu-customize.php:240
+msgid "Float Button Text Color"
+msgstr ""
+
+#: inc/magic-menu-customize.php:257
+msgid "Float Button Background Color"
+msgstr ""
+
+#: inc/magic-menu-customize.php:278
+msgid "Button Color"
+msgstr ""
+
+#: inc/magic-menu-customize.php:295
+msgid "Course Title Color"
+msgstr ""
+
+#: inc/magic-menu-customize.php:312
+msgid "Course Card Color"
+msgstr ""
+
+#: inc/magic-menu-customize.php:339
+msgid "example: 10px"
+msgstr ""
+
+#: inc/magic-menu-customize.php:356
+msgid "Display Job Title"
+msgstr ""
+
+#: inc/magic-menu-customize.php:370
+msgid "Display Student Rating"
+msgstr ""
+
+#: inc/magic-menu-customize.php:394
+msgid "Display Instructor Section"
+msgstr ""
+
+#: inc/magic-menu-customize.php:471
+msgid "Display Create Course"
+msgstr ""
+
+#: inc/magic-menu-customize.php:491
+msgid "Create Course Button Color"
+msgstr ""
+
+#: inc/magic-menu-customize.php:509
+msgid "Create Course Text Color"
+msgstr ""
+
+#: inc/magic-menu-customize.php:527
+msgid "Create Course Icon Color"
+msgstr ""
+
+#: inc/magic-menu-customize.php:548
+msgid "Footer Icons Color"
+msgstr ""
+
+#: inc/magic-menu-customize.php:569
+msgid "Card Background Color"
+msgstr ""
+
+#: inc/magic-menu-customize.php:588
+msgid "Base Color"
+msgstr ""
+
+#: inc/magic-menu-customize.php:606
+msgid "Supporting Color"
+msgstr ""
+
+#: inc/magic-menu-customize.php:624
+msgid "Title Color"
+msgstr ""
+
+#: inc/magic-menu-customize.php:642
+msgid "Progress Message Color"
+msgstr ""
+
+#: view/appbar.view.php:30
+msgid "Hello,"
+msgstr ""
+
+#: view/appbar.view.php:141
+msgid "Close"
+msgstr ""
+
+#: view/appbar.view.php:192
+msgid "/5"
+msgstr ""
+
+#: view/appbar.view.php:211
+msgid "Create Course"
+msgstr ""
+
+#: view/appbar.view.php:239
+msgid "Instructor"
+msgstr ""
+
+#: view/appbar.view.php:248
+msgid "My Courses"
+msgstr ""
+
+#: view/appbar.view.php:255
+msgid "Announcements"
+msgstr ""
+
+#: view/appbar.view.php:262
+msgid "Withdraw"
+msgstr ""
+
+#: view/appbar.view.php:269
+msgid "Quiz Attempts"
+msgstr ""
+
+#: view/appbar.view.php:325
+msgid "Continue Learning"
+msgstr ""
+
+#: view/appbar.view.php:335
+msgid "Resume"
+msgstr ""
+
+#: view/appbar.view.php:344 view/appbar.view.php:574
+msgid "Completed"
+msgstr ""
+
+#: view/appbar.view.php:363
+msgid "Dashboard"
+msgstr ""
+
+#: view/appbar.view.php:370
+msgid "Enrolled  Courses"
+msgstr ""
+
+#: view/appbar.view.php:374
+msgid "Wishlist"
+msgstr ""
+
+#: view/appbar.view.php:378
+msgid "Reviews"
+msgstr ""
+
+#: view/appbar.view.php:382
+msgid "My Quiz Attempts"
+msgstr ""
+
+#: view/appbar.view.php:386
+msgid "Order History"
+msgstr ""
+
+#: view/appbar.view.php:390
+msgid "Question & Answer"
+msgstr ""
+
+#: view/appbar.view.php:454
+msgid "Haven’t enrolled yet?"
+msgstr ""
+
+#: view/appbar.view.php:469
+#, php-format
+msgid "%s ago"
+msgstr ""
+
+#: view/appbar.view.php:476 view/appbar.view.php:573
+msgid "%"
+msgstr ""
+
+#: view/appbar.view.php:490
+msgid "Start"
+msgstr ""
+
+#: view/appbar.view.php:507
+msgid "Finish"
+msgstr ""
+
+#: view/appbar.view.php:540
+msgid "Haven’t started yet?"
+msgstr ""
+
+#: view/appbar.view.php:544
+msgid "Great start"
+msgstr ""
+
+#: view/appbar.view.php:548
+msgid "Keep at it"
+msgstr ""
+
+#: view/appbar.view.php:552
+msgid "Only half left!"
+msgstr ""
+
+#: view/appbar.view.php:556
+msgid "You are almost there!"
+msgstr ""
+
+#: view/appbar.view.php:561
+msgid "Close to finish line!"
+msgstr ""
+
+#: view/appbar.view.php:579
+msgid "Lessons Completed"
+msgstr ""
+
+#: view/appbar.view.php:584
+msgid "Quiz Completed"
+msgstr ""
+
+#: view/appbar.view.php:589
+msgid "Assignments Completed"
+msgstr ""
